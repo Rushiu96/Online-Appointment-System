@@ -1,0 +1,208 @@
+{
+  "posts": [
+    {
+      "name": "rushi",
+      "address": "minche",
+      "city": "kolhapur",
+      "email": "rushi@123",
+      "password": "12345",
+      "female": "",
+      "male": "male",
+      "repassword": "12345",
+      "id": 3
+    },
+    {
+      "name": "prashant",
+      "address": "sangli",
+      "mobile": 123456789,
+      "email": "prashant@123",
+      "password": "prashant@12345",
+      "female": "",
+      "male": "male",
+      "repassword": "prashant@12345",
+      "id": 4
+    },
+    {
+      "name": "rushi",
+      "specification": "MD",
+      "address": "pune",
+      "contact": "987654321",
+      "email": "rushi@qwer",
+      "password": "12345678",
+      "id": 5
+    },
+    {
+      "name": "joshi",
+      "specification": "MD",
+      "address": "pune",
+      "contact": "987654321",
+      "email": "joshi@1234",
+      "password": "joshi@1234",
+      "id": 6
+    },
+    {
+      "name": "shraddha",
+      "address": "pune",
+      "mobile": 8669403113,
+      "email": "shraddha@123",
+      "password": "shraddha@123",
+      "female": "female",
+      "male": "",
+      "repassword": "shraddha@123",
+      "id": 10
+    },
+    {
+      "name": "Omkar Gaikwad",
+      "address": "Pune",
+      "mobile": 9922626261,
+      "email": "omkar@123",
+      "password": "omkar@12345",
+      "female": "",
+      "male": "male",
+      "repassword": "omkar@12345",
+      "id": 11
+    },
+    {
+      "name": "shivani",
+      "address": "pune",
+      "mobile": 7756323456,
+      "email": "shivani@123",
+      "password": "shivani@12345",
+      "female": "female",
+      "male": "",
+      "repassword": "shivani@12345",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "name": "santosh devkate",
+      "specification": "md ",
+      "address": "sangola",
+      "contact": "23456789",
+      "email": "santy@12gmail.com",
+      "password": "1234567",
+      "id": 2
+    },
+    {
+      "name": "Dr. Patil",
+      "specification": "MD",
+      "address": "Pune",
+      "contact": "987654321",
+      "email": "patil12@gmail.com",
+      "password": "1234567",
+      "id": 3
+    },
+    {
+      "name": "rushi",
+      "specification": "MD",
+      "address": "pune",
+      "contact": "987654321",
+      "email": "rushi@9876",
+      "password": "1234567",
+      "id": 4
+    },
+    {
+      "name": "rushi",
+      "specification": "MD",
+      "address": "kolhapur",
+      "contact": "9421310338",
+      "email": "rushi@gmail.com",
+      "password": "123456789",
+      "id": 5
+    },
+    {
+      "name": "omkar",
+      "specification": "MCSE",
+      "address": "kolhapur",
+      "contact": "987654321",
+      "email": "omar@qwerty.com",
+      "password": "12345678",
+      "id": 6
+    },
+    {
+      "name": "omakr",
+      "specification": "ms",
+      "address": "ascwc",
+      "contact": "uytre",
+      "email": "om@tyu",
+      "password": "12345678",
+      "id": 7
+    }
+  ],
+  "savePationsAppointments": [
+    {
+      "id": 8,
+      "specification": "md",
+      "selectDoctor": "rushi",
+      "date": "2023-01-01",
+      "time": "18:33"
+    },
+    {
+      "specification": "MD",
+      "selectDoctor": "santosh devkate",
+      "date": "2023-01-01",
+      "time": "18:33",
+      "id": 9
+    },
+    {
+      "specification": "MD",
+      "selectDoctor": "santosh devkate",
+      "date": "2023-01-31",
+      "time": "20:20",
+      "id": 10
+    },
+    {
+      "specification": "md",
+      "selectDoctor": "Dr. Patil",
+      "date": "2023-01-11",
+      "time": "17:31",
+      "id": 11
+    },
+    {
+      "specification": "MD",
+      "selectDoctor": "Dr. Patil",
+      "date": "2023-01-12",
+      "time": "01:11",
+      "id": 12
+    },
+    {
+      "specification": "md",
+      "selectDoctor": "Dr. Patil",
+      "date": "2023-01-18",
+      "time": "01:11",
+      "id": 13
+    },
+    {
+      "specification": "MD",
+      "selectDoctor": "santosh devkate",
+      "date": "2023-01-13",
+      "time": "13:38",
+      "id": 14
+    },
+    {
+      "specification": "MD",
+      "selectDoctor": "santosh devkate",
+      "date": "2023-01-13",
+      "time": "11:39",
+      "id": 15
+    },
+    {
+      "specification": null,
+      "selectDoctor": "santosh devkate",
+      "date": null,
+      "time": null,
+      "id": 16
+    },
+    {
+      "specification": "MD",
+      "selectDoctor": "rushi",
+      "date": "2023-01-17",
+      "time": "13:13",
+      "id": 17
+    }
+  ],
+  "contact-us": [{
+
+  }]
+}
